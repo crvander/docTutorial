@@ -10,5 +10,3 @@ LOGO
 
    Creativamind
 
-   .. .. autosummary::
-   :toctree: generated
