@@ -4,7 +4,7 @@ DS project documentation!
 Creativamind notes...
 
 .. figure:: img/picture.jpg
-   :scale: 50 %
+   :scale: 100%
    :alt: map to buried treasure
 
    This is the caption of the figure (a simple paragraph).
