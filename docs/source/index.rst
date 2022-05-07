@@ -1,7 +1,8 @@
 Welcome to DS project documentation!
 ===================================
 
-Creativamind project!
+Creativamind notes...
+
 .. note::
 
    This project is under active development.
