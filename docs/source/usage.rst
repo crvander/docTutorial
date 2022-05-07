@@ -32,3 +32,12 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+.. image:: img/brain.png
+   :width: 500px
+   :height: 500px
+   :scale: 100%
+   :alt: alternate text
+   :align: right
+
+   This is the caption of the figure (a simple paragraph).
+
