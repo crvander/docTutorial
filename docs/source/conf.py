@@ -6,8 +6,8 @@ project = 'myDSProject'
 copyright = '2022, Carlos Ricco van der Ley'
 author = 'Graziella'
 
-release = '0.1'
-version = '0.1.1'
+# release = '0.1'
+# version = '0.1.1'
 
 # -- General configuration
 
