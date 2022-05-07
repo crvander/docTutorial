@@ -1,4 +1,4 @@
-Welcome to DS project documentation!
+DS project documentation!
 ===================================
 
 Creativamind notes...
