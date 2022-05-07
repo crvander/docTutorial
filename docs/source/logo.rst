@@ -9,3 +9,6 @@ LOGO
    :align: right
 
    Creativamind
+
+   .. .. autosummary::
+   :toctree: generated
